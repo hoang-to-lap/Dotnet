@@ -1,0 +1,12 @@
+D:\Dotnet\Bài Tập Lớn\myproject\myproject\bin\Debug\myproject.exe.config
+D:\Dotnet\Bài Tập Lớn\myproject\myproject\bin\Debug\myproject.exe
+D:\Dotnet\Bài Tập Lớn\myproject\myproject\bin\Debug\myproject.pdb
+D:\Dotnet\Bài Tập Lớn\myproject\myproject\obj\Debug\myproject.csproj.AssemblyReference.cache
+D:\Dotnet\Bài Tập Lớn\myproject\myproject\obj\Debug\myproject.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet\Bài Tập Lớn\myproject\myproject\obj\Debug\myproject.Form1.resources
+D:\Dotnet\Bài Tập Lớn\myproject\myproject\obj\Debug\myproject.Properties.Resources.resources
+D:\Dotnet\Bài Tập Lớn\myproject\myproject\obj\Debug\myproject.csproj.GenerateResource.cache
+D:\Dotnet\Bài Tập Lớn\myproject\myproject\obj\Debug\myproject.csproj.CoreCompileInputs.cache
+D:\Dotnet\Bài Tập Lớn\myproject\myproject\obj\Debug\myproject.exe
+D:\Dotnet\Bài Tập Lớn\myproject\myproject\obj\Debug\myproject.pdb
+D:\Dotnet\Bài Tập Lớn\myproject\myproject\obj\Debug\myproject.MainForm.resources
